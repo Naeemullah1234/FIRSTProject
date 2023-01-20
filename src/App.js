@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>App- {data}</h1>
+      <h1>App Namem- {data}</h1>
  
     <Child1 />
       
